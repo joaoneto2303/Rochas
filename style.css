@@ -1,0 +1,39 @@
+body {
+    background-color: #fdfaf6;
+    font-family: Georgia, serif;
+    color: #4a4a4a;
+    line-height: 1.7;
+}
+
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #5d4037;
+    font-family: Arial, sans-serif;
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #8d6e63;
+    font-weight: bold;
+}
+
+.item {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 14px;
+    color: #999;
+}
